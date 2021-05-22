@@ -1,0 +1,38 @@
+.header_welcome {
+    display: flex;
+}
+.header_func {
+    display: flex;
+}
+.img_1 {
+    width: 675px;
+    height: 535px;
+}
+.card {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    height: 400px;
+    width: 270px;
+}
+.img {
+    width: 75px;
+    height: 87px;
+}
+h1 {
+    margin-top: 210px;
+}
+.inp_header {
+    height: 60px;
+    width: 350px;
+    border-radius: 30px 0 0 30px;
+    font-size: 16px;
+    border-style: none;
+}
+.btn_header {
+    width: 125px;
+    height: 66px;
+    background-color: #9f79b1;
+    border-radius: 0 30px 30px 0;
+    margin-left: -6px;
+    font-size: 24px;
+    border-style: none;
+}

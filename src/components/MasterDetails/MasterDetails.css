@@ -1,0 +1,62 @@
+.det_wrapper {
+    display: flex;
+    margin-top: 75px;
+}
+.det_left {
+    margin-right: 75px;
+}
+.det_img {
+    max-width: 250px;
+    max-height: 350px;
+    background-size: contain;
+}
+.det_adress {
+    display: flex;
+}
+.det {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+}
+.det_name {
+    margin: 0;
+}
+.det_prof {
+    font-size: 14px;
+    margin-top: 6px;
+    color: #969696;
+}
+.det_adress {
+    font-weight: 500;
+    color: #775daa;
+}
+.det_icon {
+    width: 25px;
+    height: 25px;
+    margin-right: 15px;
+}
+.det_city {
+    margin-top: 0;
+    margin-right: 10px;
+}
+.serv_wrapper {
+    width: 600px;
+}
+.det_serv {
+    text-align: center;
+}
+.btn_num {
+    width: 185px;
+    height: 40px;
+    margin-top: 20px;
+    background-color: #9f79b1;
+    font-size: 18px;
+    border-radius: 15px;
+    border-style: none;
+}
+.img_job {
+    max-width: 300px;
+    max-height: 150px;
+    margin-left: 20px;
+    margin-top: 50px;
+}

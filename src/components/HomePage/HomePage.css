@@ -1,0 +1,16 @@
+.title_mission {
+    text-align: center;
+    font-size: 42px;
+    margin-bottom: 50px;
+}
+.mission_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.mission_img {
+    width: 150px;
+    height: 150px;
+}
+.mission {
+    margin-top: 100px;
+}

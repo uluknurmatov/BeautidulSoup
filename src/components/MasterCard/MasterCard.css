@@ -1,0 +1,86 @@
+.card {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    max-height: 400px;
+    max-width: 270px;
+    margin-right: 63px;
+    margin-top: 30px;
+}
+
+.item_img {
+    width: 75px;
+    height: 87px;
+    background-size: cover;
+    margin-left: 5px;
+}
+
+.content {
+    margin-left: 10px;
+    padding-top: 10px;
+}
+.top_card {
+    display: flex;
+}
+.icon {
+    width: 35px;
+    height: 35px;
+}
+
+.adress {
+    font-size: 16px;
+    margin-left: 8px;
+    margin-top: -15px;
+    font-weight: bold;
+}
+
+.top_card {
+    display: flex;
+}
+.icon {
+    width: 35px;
+    height: 35px;
+}
+.card_right {
+    margin-left: 15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.rating {
+    width: 100px;
+    height: 40px;
+    background-color: #c4c4c4;
+    border-radius: 10px;
+}
+
+.name {
+    font-weight: bold;
+}
+.servis {
+    display: flex;
+    justify-content: space-around;
+}
+.prices {
+    font-weight: bold;
+    margin-top: 15px;
+    font-size: 22px;
+    display: flex;
+}
+
+.right {
+    height: 25px;
+    width: 25px;
+    margin-left: 15px;
+}
+.price {
+    margin: 0;
+}
+.serv {
+    font-weight: 600;
+}
+.prof {
+    display: flex;
+    justify-content: space-between;
+}
+.icon_card {
+    width: 25px;
+    margin-top: 10px;
+}

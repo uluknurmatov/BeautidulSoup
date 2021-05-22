@@ -1,0 +1,14 @@
+.use_container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+/* .use_header {
+    background-color: #fff6d4;
+} */
+.use {
+    margin-top: 30px;
+}
+.content_use {
+    margin-top: 30px;
+    font-size: 18px;
+}

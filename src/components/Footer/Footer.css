@@ -1,0 +1,17 @@
+.footer {
+    background-color: #9f79b1;
+    margin-top: 100px;
+}
+.footer_wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.media {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+.content_3 {
+    display: flex;
+    align-items: flex-end;
+}
